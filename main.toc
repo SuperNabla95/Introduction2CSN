@@ -1,0 +1,49 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Welcome!}{5}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Master\IeC {\textquoteright }s Courses organization}{5}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Enrollment}{7}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Secretary Office}{7}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Scolarships and Awards}{9}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}International Students\IeC {\textquoteright } Scholarships}{9}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Need-Based Scholarships}{9}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Merit-based Study Awards}{9}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Sant'Anna Services}{11}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Badge}{11}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Others}{11}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}CNR Services}{13}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Mensa}{13}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Scientific Library}{13}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}UniPi Services}{15}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}GAP}{15}{section.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}UniPi Services}{15}{section.6.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Logistics}{19}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Ciclopi}{19}{section.7.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Bus services}{19}{section.7.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Contacts}{23}{chapter.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Some students}{23}{section*.2}% 
+\contentsfinish 
